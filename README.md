@@ -30,18 +30,18 @@ Check the `Cakefile` for more information.
 
 ![Cozy Logo](https://raw.github.com/mycozycloud/cozy-setup/gh-pages/assets/images/happycloud.png)
 
-[Cozy](http://cozy.io) is a platform that brings all your web services in the
-same private space.  With it, your web apps and your devices can share data
-easily, providing you
-with a new experience. You can install Cozy on your own hardware where no one
-profiles you. You install only the applications you want. You can build your
-own one too.
+[Cozy Light](http://cozy-labs.github.io/cozy-light) allows you to deal, without
+effort, with many self-hosting use cases
+like turning your server into a file storage, hosting your static website or
+managing dockerized web apps. You can try it on your desktop or directly set it
+up on your own server. It performs well on cheap hardwares like the Raspberry
+Pi or small Digital Ocean VPS. 
 
 ## Community 
 
 You can reach the Cozy community via various support:
 
 * IRC #cozycloud on irc.freenode.net
-* Post on our [Forum](https://groups.google.com/forum/?fromgroups#!forum/cozy-cloud)
-* Post issues on the [Github repos](https://github.com/mycozycloud/)
+* Post on our [Forum](https://forum.cozy.io)
+* Post issues on the [Github repos](https://github.com/cozy-labs/cozy-light)
 * Via [Twitter](http://twitter.com/mycozycloud)
