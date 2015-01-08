@@ -1,6 +1,8 @@
 {
-  "name": "cozy-template",
+  "name": "cozy-light-template-coffee",
   "version": "1.0.0",
+  "type": "classic",
+  "displayName": "Template",
   "engines": [
     "node = 0.10.x"
   ],
@@ -10,7 +12,10 @@
     "type": "git",
     "url": "https://github.com/cozy/cozy-template-coffee.git"
   },
-  "main": "server.coffee",
+  "bin": {
+    "template": "bin/template"
+  },
+  "main": "build/server.js",
   "dependencies": {
     "americano": "0.3.11",
     "americano-cozy-pouchdb": "0.3.18"
